@@ -1,0 +1,6 @@
+asset_id	fictional_hostname	service_or_type	observation	preliminary_risk	recommended_action	evidence_note
+SIM-001	portal.example.test	HTTPS web service	Server banner indicates an older software family; exact version not confirmed	High	Verify the actual version, check vendor advisories, and patch if affected	Fictional training record
+SIM-002	files.example.test	File transfer service	Service purpose is unclear from the fictional record	Medium	Confirm business need; restrict access and disable if unnecessary	Fictional training record
+SIM-003	vpn.example.test	Remote access gateway	Remote access is expected but configuration evidence is missing	Medium	Review MFA, access policies, logging, and patch status	Fictional training record
+SIM-004	docs.example.test	Web documentation	No concerning detail is shown in the available sample evidence	Low	Keep software updated and review exposure periodically	Fictional training record
+SIM-005	unknown.example.test	Unknown	Insufficient information to identify the service	Unrated	Confirm asset ownership and gather evidence through an authorized process	Fictional training record
