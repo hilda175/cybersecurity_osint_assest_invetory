@@ -1,0 +1,19 @@
+
+Cybersecurity OSINT Asset Inventory — Sample Summary
+======================================================
+Fictional assets reviewed: 5
+
+Risk-level counts:
+  High: 1
+  Medium: 2
+  Low: 1
+  Unrated: 1
+
+Items requiring follow-up:
+- SIM-001 | portal.example.test | High
+- SIM-002 | files.example.test | Medium
+- SIM-003 | vpn.example.test | Medium
+- SIM-005 | unknown.example.test | Unrated
+
+Note: These are fictional training records.
+Ratings are illustrative and do not prove vulnerabilities.
